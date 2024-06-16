@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/Quiz-Master/static/css/main.dccf2a13.css",
-    "main.js": "/Quiz-Master/static/js/main.c3a3816b.js",
+    "main.css": "/Quiz-Master/static/css/main.37abceb2.css",
+    "main.js": "/Quiz-Master/static/js/main.521ad818.js",
     "static/js/453.1fe75212.chunk.js": "/Quiz-Master/static/js/453.1fe75212.chunk.js",
+    "static/media/qlogo.gif": "/Quiz-Master/static/media/qlogo.d2193025c2456c089697.gif",
+    "static/media/loader.gif": "/Quiz-Master/static/media/loader.aad6d8fc9601365d5221.gif",
     "static/media/user.png": "/Quiz-Master/static/media/user.e39f525c0eb781a77d9b.png",
     "static/media/sun.png": "/Quiz-Master/static/media/sun.5bc32ece95389c75aaf6.png",
-    "static/media/mainIcon.png": "/Quiz-Master/static/media/mainIcon.badcad2b8ff562d9efd3.png",
+    "static/media/spinner.gif": "/Quiz-Master/static/media/spinner.233bc398299518152a4b.gif",
     "static/media/moon.png": "/Quiz-Master/static/media/moon.6fa800c51e11a07a1d94.png",
     "index.html": "/Quiz-Master/index.html",
-    "main.dccf2a13.css.map": "/Quiz-Master/static/css/main.dccf2a13.css.map",
-    "main.c3a3816b.js.map": "/Quiz-Master/static/js/main.c3a3816b.js.map",
+    "main.37abceb2.css.map": "/Quiz-Master/static/css/main.37abceb2.css.map",
+    "main.521ad818.js.map": "/Quiz-Master/static/js/main.521ad818.js.map",
     "453.1fe75212.chunk.js.map": "/Quiz-Master/static/js/453.1fe75212.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dccf2a13.css",
-    "static/js/main.c3a3816b.js"
+    "static/css/main.37abceb2.css",
+    "static/js/main.521ad818.js"
   ]
 }
